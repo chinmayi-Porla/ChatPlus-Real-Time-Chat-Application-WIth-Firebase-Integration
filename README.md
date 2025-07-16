@@ -1,4 +1,4 @@
-# ChatPlus - Real-time Chat Application
+# ChatPlus - Real-time Chat Application With Firebase Integration
 
 A modern real-time chat application built with React, Firebase, and Node.js.
 
